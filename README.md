@@ -1,8 +1,8 @@
 [![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)]
-<h1 align="center">Hi ??, I'm Saad</h1>
+<h1 align="center">Hi ?, I'm Saad</h1>
 <h3 align="center">A passionate DATA SCIENTIST DATA ANALYST</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![Alt Text](https://https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
 <p align="left"> <a href="https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/home?logo=twitter&style=for-the-badge" alt="home" /></a> </p>
 
 - ?? I’m currently learning **Data science**
