@@ -7,7 +7,7 @@
 
 - ?? I’m currently learning **Wordpress**
 
-- ?? Ask me about **Excel,Power BI,SQL**
+- ?? Ask me about ** wordpress,coding, etc**
 
 - ?? How to reach me **saadnajam2022@gmail.com**
 
